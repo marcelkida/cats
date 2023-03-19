@@ -1,24 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
+import Main from './Views/Main';
+import { Helmet, HelmetProvider } from 'react-helmet-async';
+import Test from './Views/Test';
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <HelmetProvider>
+      
+      <Helmet>
+        <script type="module" src="https://unpkg.com/@splinetool/viewer/build/spline-viewer.js"></script>
+      </Helmet>
+      {/* <Main /> */}
+      <Test/>
+    </HelmetProvider>
   );
 }
 
