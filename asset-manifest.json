@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.194705b4.css",
-    "main.js": "/static/js/main.36c2c9ce.js",
-    "static/js/856.94f7e05e.chunk.js": "/static/js/856.94f7e05e.chunk.js",
-    "static/js/338.d967b2bd.chunk.js": "/static/js/338.d967b2bd.chunk.js",
-    "static/js/787.85be35d2.chunk.js": "/static/js/787.85be35d2.chunk.js",
-    "static/media/cabin.webm": "/static/media/cabin.c05bbffeb5129679b49a.webm",
-    "static/media/island.webm": "/static/media/island.86dbed3642643186a2fa.webm",
-    "static/media/keyboard.webm": "/static/media/keyboard.adf5a6f2553968dc7b0c.webm",
-    "static/media/Devant-Medium.ttf": "/static/media/Devant-Medium.62eaf313431861e8911c.ttf",
-    "static/media/WindstoneBlackultracondensed-WydyV.otf": "/static/media/WindstoneBlackultracondensed-WydyV.1e6b4910a9e6fec84636.otf",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.194705b4.css.map": "/static/css/main.194705b4.css.map",
-    "main.36c2c9ce.js.map": "/static/js/main.36c2c9ce.js.map",
-    "856.94f7e05e.chunk.js.map": "/static/js/856.94f7e05e.chunk.js.map",
-    "338.d967b2bd.chunk.js.map": "/static/js/338.d967b2bd.chunk.js.map",
-    "787.85be35d2.chunk.js.map": "/static/js/787.85be35d2.chunk.js.map"
+    "main.css": "/cats/static/css/main.b31a68cd.css",
+    "main.js": "/cats/static/js/main.95ced0de.js",
+    "static/js/856.94f7e05e.chunk.js": "/cats/static/js/856.94f7e05e.chunk.js",
+    "static/js/338.d967b2bd.chunk.js": "/cats/static/js/338.d967b2bd.chunk.js",
+    "static/js/787.85be35d2.chunk.js": "/cats/static/js/787.85be35d2.chunk.js",
+    "static/media/cabin.webm": "/cats/static/media/cabin.c05bbffeb5129679b49a.webm",
+    "static/media/island.webm": "/cats/static/media/island.86dbed3642643186a2fa.webm",
+    "static/media/keyboard.webm": "/cats/static/media/keyboard.adf5a6f2553968dc7b0c.webm",
+    "static/media/Devant-Medium.ttf": "/cats/static/media/Devant-Medium.62eaf313431861e8911c.ttf",
+    "static/media/WindstoneBlackultracondensed-WydyV.otf": "/cats/static/media/WindstoneBlackultracondensed-WydyV.1e6b4910a9e6fec84636.otf",
+    "static/media/logo.svg": "/cats/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cats/index.html",
+    "main.b31a68cd.css.map": "/cats/static/css/main.b31a68cd.css.map",
+    "main.95ced0de.js.map": "/cats/static/js/main.95ced0de.js.map",
+    "856.94f7e05e.chunk.js.map": "/cats/static/js/856.94f7e05e.chunk.js.map",
+    "338.d967b2bd.chunk.js.map": "/cats/static/js/338.d967b2bd.chunk.js.map",
+    "787.85be35d2.chunk.js.map": "/cats/static/js/787.85be35d2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.194705b4.css",
-    "static/js/main.36c2c9ce.js"
+    "static/css/main.b31a68cd.css",
+    "static/js/main.95ced0de.js"
   ]
 }
